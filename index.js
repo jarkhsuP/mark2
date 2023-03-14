@@ -44,11 +44,11 @@ console.log("Your final score is " + score);
 
 var highscores = [
   {
-    name: "ABC",
+    name: "Pushkraj",
     score: 5
   },
   {                
-    name: "XYZ",
+    name: "Shobhna",
     score: 4
   }
 ]
